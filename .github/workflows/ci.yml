@@ -63,7 +63,7 @@ jobs:
       - name: Checkout Terraform Repo
         uses: actions/checkout@v4
         with:
-          repository: ghaithghaithghaith/terraform-etl-spark-77bf6aa3
+          repository: ghaithghaithghaith/terraform-etl-spark-221e3200
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Configure AWS Credentials
